@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace pr6_v1__2_gka
+namespace pr6_v1__2_gka123
 {
     internal class Program
     {
